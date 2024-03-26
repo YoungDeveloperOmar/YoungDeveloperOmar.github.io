@@ -1,0 +1,53 @@
+body{
+    background-color: gainsboro;
+    font-family: ".lexend", sans-serif;
+}
+.body h1{
+    text-align: center;
+}
+
+.body h2{
+    text-align: center;
+    color: blue;
+    
+}
+
+table{
+    border-style: solid;
+    width: 50%;
+    font-size: medium;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+td,th{
+ border: 1px solid black;
+ padding: 8px;
+ text-align: center;
+ font-family: monospace;
+}
+
+thead{
+    border-style: solid;
+    padding: 2px;
+}
+tbody{
+    border-style: dashed;
+}
+
+
+.code{
+    background-color:darkkhaki;
+    font-size: large;
+    font-family: monospace;
+
+}
+
+
+.lexend {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
